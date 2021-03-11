@@ -175,10 +175,11 @@ header {
     float: left;
     width: 33.33%;
     padding: 5px;
+    text-align: center;
 }
 
 .images img {
-    max-width: 345px;
+    width: 320px;
 }
 
 
